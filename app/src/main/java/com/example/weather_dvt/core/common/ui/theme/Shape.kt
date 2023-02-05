@@ -1,4 +1,4 @@
-package com.example.weather_dvt.ui.theme
+package com.example.weather_dvt.core.common.result.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes
